@@ -1,2 +1,4 @@
 Hare krishna, i just started this to learn.
 now i am going to learn first the staging then 
+i will learn about commit
+i think this file will be pushed to github let me check by commiting this.
