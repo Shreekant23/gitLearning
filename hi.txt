@@ -3,4 +3,7 @@ now i am going to learn first the staging then
 i will learn about commit
 i think this file will be pushed to github let me check by commiting this.
 
-sfsfs
+sfsfs 
+
+I am adding another set of lines for learning new commands
+mm
